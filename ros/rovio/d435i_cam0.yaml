@@ -1,0 +1,15 @@
+###### Camera Calibration File For D435i ######
+image_width: 848
+image_height: 480
+camera_name: cam0
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [423.5357, 0.0, 429.74478, 0.0, 423.5357, 239.89632, 0.0, 0.0, 1.0]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data:  [0.0, 0.0, 0.0, 0.0, 0.0]
+
+
